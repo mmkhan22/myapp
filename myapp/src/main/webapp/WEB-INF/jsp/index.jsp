@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SpringBoot</title>
+    <title>Techfest Sessions</title>
 
 </head>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
